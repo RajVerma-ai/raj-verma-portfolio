@@ -1,4 +1,4 @@
-# Raj Verma — Interactive Portfolio
+# Raj Verma — Portfolio
 
 A responsive React + Vite portfolio with Framer Motion interactions, a Three.js particle background, project filters, certificate PDF viewer, theme toggle, and a local portfolio FAQ assistant.
 
