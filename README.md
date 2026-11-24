@@ -31,3 +31,6 @@ The production website is created in `dist/`.
 - The portfolio assistant is a local FAQ helper, not a live AI service.
 - Contact uses the visitor's email app through `mailto:`; no backend is configured.
 - The Generative AI certificate is intentionally not included yet, as requested.
+
+
+Live Link:- https://raj-verma-portfolio-eta.vercel.app/
