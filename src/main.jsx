@@ -713,7 +713,7 @@ function App() {
         aria-label="Open portfolio assistant"
       >
         <MessageCircle size={20} />
-        <span>Ask about Raj</span>
+        <span>Ask</span>
       </button>
 
       <AnimatePresence>
