@@ -13,7 +13,8 @@ npm install
 npm run dev
 ```
 
-4. Open the local URL printed by Vite (usually http://localhost:5173).
+4. Open the local URL printed by Vite (https://raj-verma-portfolio-eta.vercel.app/)
+
 
 ## Build for deployment
 
@@ -31,6 +32,3 @@ The production website is created in `dist/`.
 - The portfolio assistant is a local FAQ helper, not a live AI service.
 - Contact uses the visitor's email app through `mailto:`; no backend is configured.
 - The Generative AI certificate is intentionally not included yet, as requested.
-
-
-Live Link:- https://raj-verma-portfolio-eta.vercel.app/
