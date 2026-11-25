@@ -49,7 +49,7 @@ const projects = [
     stack: ["PHP", "MySQL", "HTML", "CSS", "JavaScript"],
     image: "/assets/book-selling-website.jpg",
     note: "Book selling website preview",
-    github: "https://github.com/NovelNest-Book-Selling-Website"
+    github: "https://github.com/RajVerma-ai/NovelNest-Book-Selling-Website"
   },
   {
     id: "upi",
@@ -62,7 +62,7 @@ const projects = [
     stack: ["Power BI", "Data Analytics", "Data Visualization"],
     image: "/assets/upi-transactions-2021.jpg",
     note: "UPI analytics dashboard",
-    github: "https://github.com/upi-transaction-2021"
+    github: "https://github.com/RajVerma-ai/upi-transaction-2021"
   }
 ];
 
