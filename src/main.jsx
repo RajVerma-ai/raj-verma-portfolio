@@ -23,7 +23,7 @@ const projects = [
     stack: ["Python", "Streamlit", "Pandas", "Machine Learning", "Data Visualization"],
     image: "/assets/student-performance-dashboard.jpg",
     note: "Student performance dashboard",
-    github: "https://github.com/RajVerma-ai/Rajverma"
+    github: "https://github.com/RajVerma-ai"
   },
   {
     id: "fraud",
@@ -36,7 +36,7 @@ const projects = [
     stack: ["Python", "Machine Learning", "Pandas", "Scikit-learn"],
     visual: "fraud",
     note: "Project preview illustration",
-    github: "https://github.com/RajVerma-ai/Rajverma"
+    github: "https://github.com/RajVerma-ai"
   },
   {
     id: "books",
@@ -49,7 +49,7 @@ const projects = [
     stack: ["PHP", "MySQL", "HTML", "CSS", "JavaScript"],
     image: "/assets/book-selling-website.jpg",
     note: "Book selling website preview",
-    github: "https://github.com/RajVerma-ai/Rajverma"
+    github: "https://github.com/NovelNest-Book-Selling-Website"
   },
   {
     id: "upi",
@@ -62,7 +62,7 @@ const projects = [
     stack: ["Power BI", "Data Analytics", "Data Visualization"],
     image: "/assets/upi-transactions-2021.jpg",
     note: "UPI analytics dashboard",
-    github: "https://github.com/RajVerma-ai/Rajverma"
+    github: "https://github.com/upi-transaction-2021"
   }
 ];
 
@@ -356,7 +356,7 @@ function App() {
               animate={{ opacity: 1 }}
               transition={{ delay: 0.7 }}
             >
-              <a href="https://github.com/RajVerma-ai/Rajverma" target="_blank" rel="noreferrer">
+              <a href="https://github.com/RajVerma-ai" target="_blank" rel="noreferrer">
                 <Code2 size={17} /> GitHub
               </a>
               <a href="https://www.linkedin.com/in/rajverma80004/" target="_blank" rel="noreferrer">
@@ -680,7 +680,7 @@ function App() {
               </a>
             </div>
             <div className="contact-socials">
-              <a href="https://github.com/RajVerma-ai/Rajverma" target="_blank" rel="noreferrer">
+              <a href="https://github.com/RajVerma-ai" target="_blank" rel="noreferrer">
                 <Code2 /> GitHub
               </a>
               <a href="https://www.linkedin.com/in/rajverma80004/" target="_blank" rel="noreferrer">
