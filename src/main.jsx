@@ -23,7 +23,7 @@ const projects = [
     stack: ["Python", "Streamlit", "Pandas", "Machine Learning", "Data Visualization"],
     image: "/assets/student-performance-dashboard.jpg",
     note: "Student performance dashboard",
-    github: "https://github.com/RajVerma-ai"
+    github: "https://github.com/RajVerma-ai/AI-Student-Performance-Analysis"
   },
   {
     id: "fraud",
